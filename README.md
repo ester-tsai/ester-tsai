@@ -1,4 +1,4 @@
-- Hello! I’m @ester-tsai, a Data Science student at UC San Diego
+- Hello! I’m @ester-tsai, a Data Science Master's student at Columbia University
 - I adapt fast to each intern position and picked up a variety of new skills at work
   -  ANX Robotica (*Medical Technology*): Python, Experiment Design, Data Collection
   -  Chula Vista Open Data Program (*Government Transparency*): Power BI, Web-Embedded Interactive Dashboard, Data Cleaning
