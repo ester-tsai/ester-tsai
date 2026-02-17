@@ -1,10 +1,11 @@
-- Hello! I’m @ester-tsai, a Data Science Master's student at Columbia University
-- I adapt fast to each intern position and picked up a variety of new skills at work
-  -  ANX Robotica (*Medical Technology*): Python, Experiment Design, Data Collection
-  -  Chula Vista Open Data Program (*Government Transparency*): Power BI, Web-Embedded Interactive Dashboard, Data Cleaning
-  -  Easy Event Planning (*Marketing and Sales*): Python (Pandas, BeautifulSoup), Excel, Web Scraping, Database Management
-  -  Thermo Fisher Scientific: Microsoft Power Automate, qPCR assay domain knowledge
+- Hello! I'm @ester-tsai, a Data Engineer at Meta
+- I adapt fast and picked up a variety of new skills at work
+  -  Meta: ETL, AI agent and workflow automation
   -  Amazon: AWS SageMaker, S3, QuickSight; risk intelligence and auditing
+  -  Thermo Fisher Scientific: Microsoft Power Automate, qPCR assay domain knowledge
+  -  ANX Robotica: Python, Experiment Design, Data Collection
+  -  Chula Vista Open Data Program: Power BI, Web-Embedded Interactive Dashboard, Data Cleaning
+  -  Easy Event Planning: Python (Pandas, BeautifulSoup), Excel, Web Scraping, Database Management
 - I go above and beyond the bare minimum to serve others and grow myself
   - I created a 21-paged [data cleaning and visualization guide](https://drive.google.com/file/d/1cnpzRihVj2AXshn_Q9Ct_VXoF2aPHVI7/view?usp=sharing) for the city of Chula Vista
   - I designed and publicized instruction documents, code templates, and tutorial videos for future EEP database management interns
